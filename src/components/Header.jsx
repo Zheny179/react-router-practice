@@ -2,7 +2,7 @@ import { NavLink } from 'react-router-dom'
 
 function Header() {
   const navItems = [
-    { id: 1, link: '/react-router-practice/', label: 'Home' },
+    { id: 1, link: '/', label: 'Home' },
     { id: 2, link: 'about', label: 'About' },
     { id: 3, link: 'search', label: 'Search' },
     { id: 4, link: 'login', label: 'Login' },
