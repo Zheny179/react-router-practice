@@ -5,6 +5,8 @@
 декларативной и программной навигацией, динамическими маршрутами,
 query-параметрами и состоянием при переходах.
 
+[![react router practice](./docs/preview.png)](https://zheny179.github.io/react-router-practice/)
+
 ---
 
 ## 📋 Реализованные возможности
@@ -45,8 +47,8 @@ src/
 
 1. Склонируйте репозиторий:
     ```bash
-    git clone https://github.com/Zheny179/currency-exchange-calculator.git
-    cd currency-exchange-calculator
+    git clone https://github.com/Zheny179/react-router-practice.git
+    cd react-router-practice
     ```
 2. Установите зависимости:
 
@@ -86,7 +88,6 @@ src/
 - **`<Navigate>`** — декларативный редирект
 
 ---
-
 
 ## 📜Ссылочки
 
