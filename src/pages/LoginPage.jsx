@@ -4,7 +4,7 @@ function LoginPage() {
   const navigate = useNavigate()
 
   function handleClick() {
-    navigate('/', { state: { login: 'You are logged in' } })
+    navigate('/react-router-practice/', { state: { login: 'You are logged in' } })
   }
 
   return (
@@ -19,7 +19,7 @@ function LoginPage() {
       <button
         className="login__button"
         onClick={ () => {
-          navigate('/', { state: { login: 'You are not logged in' } })
+          navigate('/react-router-practice/', { state: { login: 'You are not logged in' } })
         } }
       >
         Forgot

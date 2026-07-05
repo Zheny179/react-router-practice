@@ -10,7 +10,7 @@ import NotFoundPage from './pages/NotFoundPage'
 function App() {
   const router = createBrowserRouter([
     {
-      path: '/',
+      path: '/react-router-practice/',
       element: <Layout />,
       children: [
         { index: true, element: <HomePage /> },
